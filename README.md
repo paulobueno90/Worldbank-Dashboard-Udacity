@@ -12,6 +12,7 @@ View the dashboard [here](https://dashboard-worldbank.herokuapp.com/).
 - gunicorn (20.0.4)
 - pandas (1.2.0)
 - plotly (4.14.1)
+- requests (2.25.1)
 
 In terminal do to directory and use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
