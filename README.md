@@ -4,7 +4,7 @@ Data visualization dashboard built using Flask, Bootstrap and Plotly. This proje
 
 Following the instructions below will launch data vis dashboard showing charts using world bank data.
 
-View the dashboard [here](https://world-bank-dash.herokuapp.com/).
+View the dashboard [here](https://dashboard-worldbank.herokuapp.com/).
 
 ## Requirements
 
